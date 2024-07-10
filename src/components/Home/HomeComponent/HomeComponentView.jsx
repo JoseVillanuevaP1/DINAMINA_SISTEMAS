@@ -27,8 +27,8 @@ const HomeComponentView = () => {
                             <h3 className="mb-4"> <span className="typed-text"></span><span className="cursor">&nbsp;</span> </h3>
                             <p>Explora la problemática de la explotación pesquera en Perú y cómo nuestro modelo de dinámica de sistemas busca contribuir en este conflicto.</p>
 
-                            <a className="btn btn-primary btn-style mt-5 me-2" href="https://rrhh.gppcargo.com/files/TA%20-%20DIN%C3%81MICA%20DE%20SISTEMAS.docx#url"><i className="fa fa-file-word"></i> Documento </a>
-                            <a className="btn btn-style transparent-btn mt-5" href="https://rrhh.gppcargo.com/files/G2-T2-EC4.pptx"><i className="fa fa-file-powerpoint"></i> Diapositivas </a>
+                            <a className="btn btn-primary btn-style mt-5 me-2" href="https://rrhh.gppcargo.com/files/TA%20-%20DIN%C3%81MICA%20DE%20SISTEMAS.pdf"><i className="fa fa-file-word"></i> Documento </a>
+                            <a className="btn btn-style transparent-btn mt-5" href="https://rrhh.gppcargo.com/files/TA%20-%20DIN%C3%81MICA%20DE%20SISTEMAS%20(1).pdf"><i className="fa fa-file-powerpoint"></i> Diapositivas </a>
                         </div>
                         <div className="col-lg-5 text-lg-end my-image mt-lg-0 mt-4">
                             <img src="/images/logo10.png" className="img-fluid" alt="Banner" />
